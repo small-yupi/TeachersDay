@@ -1,0 +1,12 @@
+.href:link{
+    color:skyblue
+}
+.href:visited{
+    color:rgb(5, 165, 229)
+}
+.href:hover{
+    color:rgba(255, 0, 0, 0.936)
+}
+.href:active{
+    color:rgba(255, 0, 0, 0.608)
+}
