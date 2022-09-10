@@ -22,6 +22,7 @@
 .href2:active{
     color:rgb(5, 165, 229);
 }
-body{
-    background-color:linen
+html{
+    background-color:linen;
+    font-family: "微软简隶书", serif;
 }
