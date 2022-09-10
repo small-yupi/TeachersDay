@@ -10,6 +10,18 @@
 .href:active{
     color:rgba(255, 0, 0, 0.608)
 }
+.href2:link{
+    color:red;
+}
+.href2:visited{
+    color:rgb(225, 229, 5);
+}
+.href2:hover{
+    color:skyblue;
+}
+.href2:active{
+    color:rgb(5, 165, 229);
+}
 body{
     background-color:linen
 }
