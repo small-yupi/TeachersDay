@@ -1,38 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>教师节快乐!</title>
+    <link rel="shortcut icon" href="logo.icon">
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <br> <h1 align="center" style="color: rgb(93, 97, 190); text-shadow:3px 3px 10px rgb(170, 154, 228);">祝老师们教师节快乐！</h1>
 
-/*
-作者: zsj20143688@163.com
-_______________________________________________________________________________START______________________________________________________________________________________
-*/
-.href:link{
-    color:skyblue
-}
-.href:visited{
-    color:rgb(5, 165, 229)
-}
-.href:hover{
-    color:rgba(255, 0, 0, 0.936)
-}
-.href:active{
-    color:rgba(255, 0, 0, 0.608)
-}
-.href2:link{
-    color:red;
-}
-.href2:visited{
-    color:rgb(225, 229, 5);
-}
-.href2:hover{
-    color:skyblue;
-}
-.href2:active{
-    color:rgb(5, 165, 229);
-}
-html{
-    background-color:linen;
-    font-family: "微软简隶书", serif;
-}
+    <br> <div align="center"> <b><a class="href" href="https://small-yupi.github.io/TeachersDay/index2.html">
+            <button class="href3" style="color:rgb(129, 129, 255);">&nbsp下一页&nbsp</button>
+    </a>
 
-/*
-作者: zsj20143688@163.com
-________________________________________________________________________________END_______________________________________________________________________________________
-*/
+    </b> </div>
+
+    <br> <br> <div align="center"> <audio src="Trip.mp3" autoplay="autoplay" controls="controls" loop="loop"></audio> </div>
+
+    <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>  <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+    
+    <br> <div align="center"> <b><a class="href" href="https://small-yupi.github.io/TeachersDay/make.html">
+        <button class="href3" style="color:rgb(129, 129, 255);">&nbsp制作名单&nbsp</button>
+    </a> </div>
+</body>
+</html>
