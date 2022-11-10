@@ -12,6 +12,9 @@
     background-color:rgb(234, 234, 234);
 }
 
+.img:hover {
+    box-shadow: 3px 3px 10px rgb(53, 53, 53);
+}
 
 audio {
     background-color: white;
