@@ -44,6 +44,9 @@ audio {
 html{
     background-color:rgb(254, 254, 254);
 }
+img {
+    border-radius: 30px;
+}
 button  {
     border-style:none;
     border-radius: 20px;
